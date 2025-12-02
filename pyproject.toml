@@ -22,3 +22,7 @@ license-files = ["LICENSE"]
 [build-system]
 requires = ["uv_build>=0.9.11"]
 build-backed = "uv_build"
+
+[project.urls]
+Homepage = "https://github.com/UsamaGM/dataset-merger
+Issues = "https://github.com/UsamaGM/dataset-merger/issues"
