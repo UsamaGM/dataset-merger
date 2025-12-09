@@ -21,7 +21,7 @@ Whether you are combining public datasets (COCO) with custom annotations (YOLO .
 Clone the repository and install it in editable mode:
 
 ```bash
-git clone [https://github.com/your-username/segmerge.git](https://github.com/your-username/segmerge.git)
-cd segmerge
+git clone [https://github.com/usama-mangi/dataset-merger.git](https://github.com/usama-mangi/dataset-merger.git)
+cd dataset-merger
 pip install -e .
 ```
